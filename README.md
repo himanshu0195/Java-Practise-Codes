@@ -1,7 +1,7 @@
 # Java-Practise-Codes
 
 Here I will be posting all the coding problems that I have solved till date. 
-I will update it every day. I hope someday this will help you in your coding journey.
+I hope someday this will help you in your coding journey.
 
 Few heads up:
 
